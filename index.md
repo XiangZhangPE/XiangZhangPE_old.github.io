@@ -21,13 +21,15 @@ Outside of academia, I like photographing and soul like games.
 
 ## Research Interests
 - **Multiphase Resonant Converters:** Especially 3, 5, and high-phase LLC resonant converters
-- **High Precise Digital Control:** fairness AI, penalization and augmentation methods
-- **Current Sharing Techniques:** functional regression, and clustering methods
-- **Symmetrical Coupled Magnetics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **High Precise Digital Control:** Adaptive voltage positioning with high dynamic, trajectory control for multiphase converter, and asymmetry PWM modulations
+- **Current Sharing Techniques:** Coupled inductor based current sharing, partial energy tranfer techniques for balancing
+- **Symmetrical Coupled Magnetics:** Complex magnetics coupling behavior and flux distribution optimize
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+## Scholarships
+- **[2021-2023]** NSERC Graduate Research Fellowship of Queen’s university
+- **[Feb. 2022]** Graduate Fellowship of <a href="https://www.mitacs.ca/en/programs/globalink/globalink-graduate-fellowship" target="_blank">*Mitacs Globalink*</a> for outstanding graduate researchers
+- **[2017-2020]** Scholarship of Academic Excellence of Wuhan University
 
 {% include_relative _includes/publications.md %}
 
