@@ -8,7 +8,7 @@ I'm a <a href="https://www.queensu.ca/epower/" target="_blank"> Power Electronic
 <!-- 
 In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. -->
 
-Prior to joining the M.A.Sc. program, I completed my bachelor's degree in Electrical Engineering from <a href="https://en.whu.edu.cn/" target = "_blank"> Wuhan University</a> advised by  <a href= "https://scholar-google-com.proxy.queensu.ca/citations?user=Hl9QqZIAAAAJ&hl=en" target = "_blank"> Dr. Meng Huang</a>. 
+Prior to joining the M.A.Sc. program, I completed my bachelor's degree in Electrical Engineering from <a href="https://en.whu.edu.cn/" target = "_blank"> Wuhan University</a> advised by  <a href= "https://scholar.google.com/citations?user=Hl9QqZIAAAAJ&hl=en" target = "_blank"> Dr. Meng Huang</a>. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
