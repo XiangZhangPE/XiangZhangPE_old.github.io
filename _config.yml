@@ -2,7 +2,12 @@
 title: Xiang Zhang
 position: M.A.Sc. Candidate
 affiliation: Queen's Univeristy
+subaffiliation: Centre for Energy and Power Electronics Research 
+affiliation_link: https://www.queensu.ca/
+subaffiliation_link: https://www.queensu.ca/epower/
 email: xiang.zhang@queensu.ca
+address: Walter Light Hall, Room 108, Queen's University, Kingston, ON K7L 3N9, Canada
+address_link: https://maps.app.goo.gl/M7zqjViHgY2Vh4AQ6
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -25,7 +30,7 @@ favicon_dark: ./assets/img/favicon-dark_queensu.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
