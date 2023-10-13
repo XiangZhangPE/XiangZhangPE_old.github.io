@@ -20,7 +20,7 @@ Outside of academia, I like photographing and soul like games.
 
 
 ## Research Interests
-- **Multiphase Resonant Converters:** Especially 3-phase, 5-phase, and high-phase LLC resonant converters
+- **Multiphase Resonant Converters:** Especially 3, 5, and high-phase LLC resonant converters
 - **High Precise Digital Control:** fairness AI, penalization and augmentation methods
 - **Current Sharing Techniques:** functional regression, and clustering methods
 - **Symmetrical Coupled Magnetics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
