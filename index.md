@@ -54,6 +54,6 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.-->
 
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
 
 
