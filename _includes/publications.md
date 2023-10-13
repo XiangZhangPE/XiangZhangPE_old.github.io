@@ -18,7 +18,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/10135113/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/document/10135113/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/files/tpel01.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@
     <div class="periodical"><em>2023 IEEE Energy Conversion Congress and Exposition <strong>(ECCE)</strong>,2023, Nashville, TN.</em></div>
     <div class="links">
       <a href="assets/files/ECCE2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="assets/files/ecce2023.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
