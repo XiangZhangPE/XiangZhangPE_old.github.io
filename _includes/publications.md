@@ -36,7 +36,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/ECCE2023.pdf">Discrete Symmetrical Coupled Inductor Structure and its Matrix-type Imple-mentation for DC-DC Converter</a></div>
     <div class="author"><strong>Xiang Zhang, Shangzhi Pan, Praveen Jain</strong></div>
-    <div class="periodical"><em>2023 IEEE Energy Conversion Congress and Exposition, Nashville, TN, 2023 <strong>(ECCE2023)</strong>.</em></div>
+    <div class="periodical"><em>2023 IEEE Energy Conversion Congress and Exposition <strong>(ECCE)</strong>,2023, Nashville, TN.</em></div>
     <div class="links">
       <a href="assets/files/ECCE2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
