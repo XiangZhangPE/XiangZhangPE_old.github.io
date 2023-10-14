@@ -30,7 +30,7 @@ Outside of academia, I like photographing and soul like games.
 - **Power Electronics:** From grid-scale to power modules
 - **Digital Control Techniques:** Adaptive voltage positioning with high dynamic, trajectory control for multiphase converter, and asymmetry PWM modulations
 - **Complex Magnetics Coupling in Power Converters:** Symmetrical coupled inductors' behavior and their potential in current/voltage balancing, magnetics based partial energy tranfer techniques, and high density magnetic integration 
-- **Resonant Converters:** Applicaions in PV micro inverters and computation systems' power delivery
+- **Resonant Converters:** Applicaions in PV inverters and computation systems' VR modules
 
 
 {% include_relative _includes/projects.md %}
