@@ -56,7 +56,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">High Density 200W Laptop Charger with USB-C PD3.0 </div>
     <div class="author"><strong>Xiang Zhang</strong>, Shangzhi Pan </div>
-    <div class="periodical"><em>Industiral R&D Projects, Center for Grid Power Electronics, Wuhan University <strong>(CGPES)</strong>.</em></div>
+    <div class="periodical"><em>Industiral R&D Projects, Center for Grid Power Electronics <strong>(CGPES)</strong>, Wuhan University.</em></div>
   </div>
 </div>
 </li>
