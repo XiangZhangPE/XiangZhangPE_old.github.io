@@ -33,7 +33,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="ecce2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ecce2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCE2023</abbr>
   </div>
 
