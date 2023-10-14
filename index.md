@@ -18,11 +18,20 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 Outside of academia, I like photographing and soul like games.
 
+<!--
 ## Research Interests
 - **Multiphase Resonant Converters:** Especially 3, 5, and high-phase LLC resonant converters
 - **High Precise Digital Control:** Adaptive voltage positioning with high dynamic, trajectory control for multiphase converter, and asymmetry PWM modulations
 - **Current Sharing Techniques:** Coupled inductor based current sharing, partial energy tranfer techniques for balancing
 - **Symmetrical Coupled Magnetics:** Complex magnetics coupling behavior and flux distribution optimize
+-->
+
+## Research Interests
+- **Power Electronics:** From grid-scale to power modules
+- **Digital Control Techniques:** Adaptive voltage positioning with high dynamic, trajectory control for multiphase converter, and asymmetry PWM modulations
+- **Complex Magnetics Coupling in Power Converters:** Symmetrical coupled inductors' behavior and their potential in current/voltage balancing, magnetics based partial energy tranfer techniques, and high density magnetic integration 
+- **Resonant Converters:** Applicaions in PV micro inverters and computation systems' power delivery
+
 
 {% include_relative _includes/projects.md %}
 
