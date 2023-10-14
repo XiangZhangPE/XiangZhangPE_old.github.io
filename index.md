@@ -24,7 +24,7 @@ Outside of academia, I like photographing and soul like games.
 - **Current Sharing Techniques:** Coupled inductor based current sharing, partial energy tranfer techniques for balancing
 - **Symmetrical Coupled Magnetics:** Complex magnetics coupling behavior and flux distribution optimize
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}
 
