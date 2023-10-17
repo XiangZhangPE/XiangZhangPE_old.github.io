@@ -38,6 +38,6 @@ Outside of academia, I like photographing and soul like games.
 {% include_relative _includes/services.md %}
 
 ## Scholarships
-- **[2021-2023]** NSERC Graduate Research Fellowship of Queen’s university
+- **[2021-2023]** Graduate Research Fellowship of Queen’s university
 - **[Feb. 2022]** Graduate Fellowship of <a href="https://www.mitacs.ca/en/programs/globalink/globalink-graduate-fellowship" target="_blank">*Mitacs Globalink*</a> for outstanding graduate researchers
 - **[2017-2020]** Scholarship of Academic Excellence of Wuhan University
