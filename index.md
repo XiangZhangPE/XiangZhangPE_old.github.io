@@ -16,7 +16,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 <!--
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling. -->
 
-Outside of academia, I like photographing and soul like games.
+Outside of academia, I like photographing, aerial filming, and soul-like games.
 
 <!--
 ## Research Interests
